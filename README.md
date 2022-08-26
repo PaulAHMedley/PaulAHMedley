@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PaulAHMedley
-- I am interested in fish stock assessment and modelling fisheries data, particularly for data-limited fisheries. I have been working recently on models for better interpretation of length frequency data.  
-- I am using Github primarily as a way to convenient distribute R functions. 
-- 📫 I can be contacted through email: paulahmedley@gmail.com
+- Hello, I’m @PaulAHMedley
+- I am interested in fish stock assessment and modelling fisheries data, particularly for data-limited fisheries. I have been working recently on models for better interpretation of length frequency data (BLICC).  
+- I am using Github primarily as a convenient way to distribute R functions in a package. 
+- I can be contacted through email: paulahmedley@gmail.com
 
 <!---
 PaulAHMedley/PaulAHMedley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
